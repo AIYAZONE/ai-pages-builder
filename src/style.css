@@ -77,22 +77,6 @@ html {
   text-decoration: none;
 }
 
-/* ADS */
-
-.gjs-pn-panel#gjs-pn-views-container,
-.gjs-pn-panel.gjs-pn-views-container {
-  height: calc(100% - 150px);
-}
-
-.ad-cont {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  z-index: 2;
-  width: 15%;
-  height: 150px;
-}
-
 #carbonads {
   font: caption;
   padding: 20px 10px;
